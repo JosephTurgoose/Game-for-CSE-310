@@ -8,9 +8,7 @@ This game is very simple.  Point and click to shoot the enemies that are bombard
 
 As a computer scientist and software engineer, I must be skilled with a variety of tools.  Although Unity handles a lot by itself, a lot of programming still has to go into it to make a functional game.  Although I have made games in Unity before, I have never uploaded one to Github, nor have I used the rotational math I mentioned above.  If you play this game you will notice there is currently no noise, no start screen, and no game end.  This was simply a project to test my programming abilities during a short and busy time and I think it went quite well.
 
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/jZl5LVdtxUw))
 
 # Development Environment
 
